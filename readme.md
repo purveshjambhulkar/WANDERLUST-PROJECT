@@ -21,8 +21,5 @@ This project is a travel website inspired by Airbnb, where users can discover an
 - Mongoose
 - Bootstrap
 
-## Contributors
-
-- [Your Name](https://github.com/yourusername)
 
 Feel free to contribute by forking the repository and creating a pull request.
